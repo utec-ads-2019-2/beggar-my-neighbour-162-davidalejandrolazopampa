@@ -1,4 +1,5 @@
 //Lazo David
+//Que raro aceptop pero demoro
 #include <iostream>
 #include <list>
 
